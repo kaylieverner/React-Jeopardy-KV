@@ -1,0 +1,10 @@
+.submitBtn {
+    background: gold;
+    border: none;
+    font-size: 20px;
+}
+
+.submitBtn:hover {
+    background: blue;
+    border: none;
+}
